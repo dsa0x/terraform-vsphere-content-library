@@ -30,7 +30,7 @@ content_library_name = "Content library"
 
 ### Deploy
 
-To deploy this example, execute the following: 1/&nbsp;[`terraform init`](https://www.terraform.io/cli/commands/init), 2/&nbsp;[`terraform plan`](https://www.terraform.io/cli/commands/plan), and 3/&nbsp;[`terraform apply`](https://www.terraform.io/cli/commands/apply).
+ To deploy this example, execute the following: 1/&nbsp;[`terraform init`](https://www.terraform.io/cli/commands/init), 2/&nbsp;[`terraform plan`](https://www.terraform.io/cli/commands/plan), and 3/&nbsp;[`terraform apply`](https://www.terraform.io/cli/commands/apply).
 
 ### Clean-up
 
